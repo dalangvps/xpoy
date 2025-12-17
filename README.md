@@ -6,7 +6,7 @@ https://ibb.co/N65t9dkF
 [![Python Version](https://img.shields.io/badge/Python-3.x-yellow.svg)]()
 [![Status](https://img.shields.io/badge/Status-Active-green.svg)]()
 
-> Developed for CYBER INDO (CI) by Zero.
+> Developed for CYBER INDO (CI) by GhostF4j
 
 ## 💀 Deskripsi Singkat
 **Xpoy v2.0** adalah *Web Penetration Testing* dan *Vulnerability Scanner* berbasis Python yang dirancang untuk pengujian keamanan profesional (*White Hat*). *Tools* ini **secara agresif dan rekursif** menjelajahi seluruh *website* target, mengidentifikasi semua parameter yang dapat diuji, dan secara otomatis **menembakkan multi-payload** untuk menemukan kerentanan kritis seperti **SQL Injection (SQLi)**, **Cross-Site Scripting (XSS)**, dan **Local File Inclusion (LFI)**.
